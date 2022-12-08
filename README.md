@@ -5,7 +5,7 @@
 
 
 <br>
-<h4 align="center"> 📚 Tech 📚 </h4>
+<h3 align="center"> 📚 Tech 📚 </h3>
 <p align="center"> Tech I've used at least once </p>
 
 <p align="center">
