@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chi%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chi%20Kim&fontAlignX=45&fontAlignY=40&fontSize=80)
 
 <h3 align="center"> 👋 Welcome! 👋 </h3>
 <p align="center"> I'm Chi, a passionate growing developer </p>
@@ -26,4 +26,6 @@
 <p align="center">
 <a href="mailto:kcwjy90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcwjy90@gmail.com"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
